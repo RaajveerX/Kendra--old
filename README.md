@@ -10,4 +10,4 @@ A web based app created for students to organize tasks, courses and frequently u
 - Frameworks: Express ( Node.js Framework )
 ## Usage
 - The website is being hosted online with the help of heroku for the backend and netlify for the frontend.
-- [Kendra](https://kendraapi.netlify.app) ( Click to check my progress! )
+- [Kendra](https://kendraapi.netlify.app)
