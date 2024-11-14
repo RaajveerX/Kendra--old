@@ -11,3 +11,8 @@ A web based app created for students to organize tasks, courses and frequently u
 ## Usage
 - The website is being hosted online with the help of heroku for the backend and netlify for the frontend.
 - [Kendra](https://kendraapi.netlify.app)
+
+
+https://github.com/user-attachments/assets/a262f71f-b707-4610-8f4d-5fc2ce627a59
+
+
